@@ -19,10 +19,11 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
+```bash
 first_gemni/
 │── main.py               # Streamlit app UI
 │── config.py             # API configurations
 │── langchain_utils.py    # LangChain model & processing
 │── requirements.txt      # Dependencies
 │── .env                  # Store API Keys
-
+```
