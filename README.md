@@ -1,4 +1,4 @@
-# 🚀 First_Gemni - AI Chatbot  
+#  Gemni - AI Chatbot  
 
 A modular AI chatbot built using **Google Gemini API, LangChain, and Streamlit**.
 
