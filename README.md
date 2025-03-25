@@ -1,4 +1,4 @@
-#  Gemni - AI Chatbot  
+#  Gemini - AI Chatbot  
 
 A modular AI chatbot built using **Google Gemini API, LangChain, and Streamlit**.
 
